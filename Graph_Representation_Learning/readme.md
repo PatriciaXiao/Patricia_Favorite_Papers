@@ -21,7 +21,7 @@ pending
     * Implementation in [Tensorflow](https://github.com/PetarV-/GAT), [PyTorch](https://github.com/PatriciaXiao/pyGAT) and in [PyTorch with DGL](https://github.com/dmlc/dgl/tree/master/examples/pytorch/gat)
     * (patricia's note) compared with GCN, it takes longer time each epoch, takes larger memory, but converges in fewer epochs, and thus converges in similar speed overall
 
-#### Architectural-Optimization
+#### Architectural Improvements
 - **GraphSAGE**: [Inductive Representation Learning on Large Graphs (NIPS'17)](https://arxiv.org/abs/1706.02216)
     * More details on its [homepage](http://snap.stanford.edu/graphsage/).
     * Treating the convolution operation as: (1) neighborhood-sampling (2) aggregation
