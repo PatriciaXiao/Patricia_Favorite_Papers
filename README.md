@@ -7,6 +7,8 @@ I am keeping those papers here for one or more of the following reasons:
 - It attracts me because of its high quality
 - It is one of the most significant related works
 
+On-going; to-be updated at any time.
+
 ## Others' collections:
 - [Literature of Deep Learning for Graph](https://github.com/DeepGraphLearning/LiteratureDL4Graph)
 - [Representation Learning on Heterogeneous Graph](https://github.com/Jhy1993/Representation-Learning-on-Heterogeneous-Graph)
