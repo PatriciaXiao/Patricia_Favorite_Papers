@@ -38,7 +38,7 @@ pending
     * A more flexible, more general, thus more expressive version of GraphSAGE (e.g. the aggregation operation has more options)
     * Implementation in [PyTorch](https://github.com/weihua916/powerful-gnns) and in [PyTorch in DGL](https://github.com/dmlc/dgl/tree/master/examples/pytorch/gin).
     * (patricia's note) same as GraphSAGE in time-space-sparsity relations
-- [Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks](https://arxiv.org/pdf/1905.07953.pdf)
+- [**Cluster-GCN**: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks](https://arxiv.org/pdf/1905.07953.pdf)
     * They split the large graph into parts and train each part separately, join them in the end
     * Implementation in [Tensorflow](https://github.com/google-research/google-research/tree/master/cluster_gcn), [PyTorch](https://github.com/benedekrozemberczki/ClusterGCN)
     * (patricia's note) the **running time analysis** of GCN-based models in their paper is super helpful
