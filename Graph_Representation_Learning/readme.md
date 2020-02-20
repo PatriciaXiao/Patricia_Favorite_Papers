@@ -8,6 +8,10 @@ pending
 ### Random-Walk-Based
 - [**LINE**: Large-scale Information Network Embedding (WWW'15)](https://arxiv.org/abs/1503.03578)
     * first- and second-order proximities of the nodes
+    * (patricia's note) how the paper introduces its motivation, problem, solution, etc., is really worth learning from. everything is explained very clearly and briefly.
+- [**GraphVite**: A High-Performance CPU-GPU Hybrid System for Node Embedding (WWW'19)](https://arxiv.org/abs/1903.00757)
+    * a framework that significantly accelerate many (typically) random-walk-based models including LINE (for line, speedup 50X)
+    * (patricia's note) hybriding with C/C++, switching between GPU/CPU, this work is really solid and admirable, and every detail has a convincing reason.
 
 ### Deep-Neural-Network-Based
 
